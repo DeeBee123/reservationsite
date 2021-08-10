@@ -5,7 +5,9 @@
 
 This is a simple hotel reservation tracking system. This project was built using Laravel and MySql database. 
 SQL schema used:
-![alt text](https://github.com/deebee123/reservationsite/blob/main/schema.jpg?raw=true)
+![schema](https://user-images.githubusercontent.com/55953117/128912441-bb36cc9c-3c67-4669-8eb8-00748ae09726.png)
+
+
 
 ## Functionalities
 
